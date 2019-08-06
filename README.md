@@ -4,4 +4,5 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 First of all we do some exploration and visualization of the dataset, this could found in @Features_Importance.ipynb 
 
 Algorithms:
+  1- Support vector machine [a relative link](SVM.ipynb)
   
